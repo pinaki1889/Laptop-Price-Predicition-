@@ -103,7 +103,7 @@ DEVELOPERS
 Blog:
 ----
 
-Check out the Medium article ,where Pinaki have explained in detail.
+Check out the Medium article ,where I have explained in detail.
 
 [Blog Link](https://medium.com/analytics-vidhya/laptop-price-prediction-by-machine-learning-7e1211bb96d1)
 
